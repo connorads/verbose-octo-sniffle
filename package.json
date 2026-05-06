@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/connorads/verbose-octo-sniffle#readme",
   "dependencies": {
-    "simple-git": "^2.35.1"
+    "simple-git": "^3.36.0"
   }
 }
